@@ -1,0 +1,4 @@
+potentialCoupledBaffleMixedFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libpotentialcoupled
+

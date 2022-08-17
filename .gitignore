@@ -1,0 +1,13 @@
+# Needed when C++ code is built using the OpenFOAM library, since it does not
+# use a "normal" build tool (make, cmake, ..).
+lnInclude
+*.dep
+linux*
+Darwin*
+
+# Editor and misc backup files - anywhere
+*~
+.*~
+*.bak
+*.bak[0-9][0-9]
+\#*\#
